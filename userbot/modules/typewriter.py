@@ -1,4 +1,3 @@
-userbot/modules/typewriter.py
 
 from telethon import TelegramClient, events
 from userbot import bot
